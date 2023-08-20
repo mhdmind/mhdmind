@@ -1,4 +1,4 @@
-<h1 align="left">Hello and Welcome to my home :)</h1>
+<h1 align="left">Welcome to my home :)</h1>
 
 ###
 
