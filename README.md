@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">I'm currently in my journey to be a good frontend developer</h2>
-
-###
-
 <p align="left">📚 I'm currently learning javascript<br>🎯 Goals: to be a software developer</p>
 
 ###
