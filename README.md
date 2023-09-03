@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning javascript<br>🎯 Goals: to be a software developer</p>
+<p align="left">📚 I'm currently learning javascript</p>
 
 ###
 
