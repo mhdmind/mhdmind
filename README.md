@@ -1,14 +1,4 @@
-<h1 align="left">Welcome to my home :)</h1>
-
-###
-
 <p align="left">Hi , my name is Mahdi Shaghaghi</p>
-
-###
-
-<p align="left">📚 I'm currently learning javascript</p>
-
-###
 
 <div align="center">
   <a href="mxhdi.sh@gmail.com" target="_blank">
